@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ManonVss
+- 👀 I’m interested in Human Ressources
+- 🌱 I’m currently learning Recruitment
+- 💞️ I’m looking to collaborate with devs in my company to recuit other great devs
+- 📫 How to reach me : manon.veisse@m6.fr
